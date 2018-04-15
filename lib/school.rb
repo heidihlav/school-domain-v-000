@@ -18,7 +18,7 @@ class School
   end
 
   def sort
-    @roster.sort.chars.join
+    @roster.sort.join
   end
 
 end
