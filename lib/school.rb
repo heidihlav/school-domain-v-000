@@ -19,4 +19,3 @@ class School
   end
   
 end
-
