@@ -15,6 +15,6 @@ class School
     roster[students_grade]
   end
 
-def sort
-end
+  def sort
+  end
 end
