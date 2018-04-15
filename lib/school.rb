@@ -17,7 +17,7 @@ class School
     roster[students_grade]
   end
 
-  def sort(students_grade)
+  def sort
     students = roster[students_grade]
     students.sort.chars.join
   end
